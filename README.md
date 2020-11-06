@@ -1,2 +1,3 @@
 # hellokashmir
 Learning to use Github
+I have tried to learn and use Github many years ago but couldn't keep it up. Perhaps, I thought it was not necessary in the enviornment of Azad Kashmir. Here, very few people are tech savy and most of the people do the things centuries old ways. Perhaps they have not had enough experience which is necessarh to grow their trust on new information technology. Surprizingly, that works for them. Since I am a restless soul since my childhood, and I perhaps find new ways of escaping the problems of my life that are currently facing me. My younger sister, in my view, does the same thing. I highlight it so much for her, but not for me, I must acknoledge.
